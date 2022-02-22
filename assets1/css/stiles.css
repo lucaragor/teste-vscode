@@ -1,0 +1,83 @@
+.backgroundcolorNav{
+    background-color: azure;
+    color: white;
+}
+
+.textxnav {
+    color:black !important;
+    font-size: 20px
+}
+.textxnave {
+    color:azure !important;
+   
+}
+
+.nav-item {
+    padding: 10px 20px;
+}
+
+.nav-item1 {
+ padding: 0px 10px;
+}
+.divlogo{
+    padding-right: 100px;
+}
+
+.heightfull {
+    height: 100vh;
+}
+
+.navbar {
+    position:   fixed;
+    width:  100%;
+}
+.sectionone {
+    padding-top: 89.94px;
+    background-color:lightblue
+}
+
+.titleselectionone {
+    color: black;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+.subtitleone {
+    color: black;
+    font-size: 30px;
+    margin-bottom: 34px;
+}
+.divcontentsectionone {
+    padding: 0px 100px;
+}
+.imaging2 {
+    padding-left: 150px;
+    }
+
+.btnsectiononecontact{
+    
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;    
+}
+
+.btnsectiononecontact rover {
+    
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.btnsectiononecontact focus {
+    
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.promoçoes1 {
+    padding-left: 35pc;
+
+}
