@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5cd2a7f4-3a41-4647-a336-5375f48d0415/resourceGroups/dasmariasmodamenina_group/providers/Microsoft.Web/sites/dasmariasmodamenina",
+    "appService.deploySubpath": "."
+}
